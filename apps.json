@@ -1,0 +1,150 @@
+{
+    "apps": [
+      {
+        "name": "notepad",
+        "path": "notepad.exe",
+        "synonyms": ["notepad"]
+      },
+      {
+        "name": "calculator",
+        "path": "calc.exe",
+        "synonyms": ["calculator"]
+      },
+      {
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "synonyms": ["chrome"]
+      },
+      {
+        "name": "spotify",
+        "path": "C:\\Users\\YourUsername\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "synonyms": ["spotify"]
+      },
+      {
+        "name": "firefox",
+        "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+        "synonyms": ["firefox"]
+      },
+      {
+        "name": "microsoft edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "synonyms": ["microsoft edge", "edge"]
+      },
+      {
+        "name": "word",
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+        "synonyms": ["microsoft word", "word", "ms word"]
+      },
+      {
+        "name": "excel",
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+        "synonyms": ["microsoft excel", "excel", "ms excel"]
+      },
+      {
+        "name": "powerpoint",
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+        "synonyms": ["microsoft powerpoint", "powerpoint", "ms powerpoint"]
+      },
+      {
+        "name": "vscode",
+        "path": "C:\\Users\\sibis\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "synonyms": ["vs code", "vscode", "code", "visual studio", "visual studio code"]
+      },
+      {
+        "name": "photoshop",
+        "path": "C:\\Program Files\\Adobe\\Adobe Photoshop 2023\\Photoshop.exe",
+        "synonyms": ["photoshop"]
+      },
+      {
+        "name": "paint",
+        "path": "C:\\Windows\\System32\\mspaint.exe",
+        "synonyms": ["mspaint", "paint"]
+      },
+      {
+        "name": "file explorer",
+        "path": "explorer",
+        "synonyms": ["explorer", "fileexplorer"]
+      },
+      {
+        "name": "opera",
+        "path": "C:\\Users\\sibis\\AppData\\Local\\Programs\\Opera\\launcher.exe",
+        "synonyms": ["opera browser", "launcher"]
+      },
+      {
+        "name": "anaconda",
+        "path": "C:\\Users\\sibis\\anaconda3\\_conda.exe",
+        "synonyms": ["anaconda", "ana conda"]
+      },
+      {
+        "name": "figma",
+        "path": "C:\\Users\\sibis\\AppData\\Local\\Figma\\Figma.exe",
+        "synonyms": ["figma", "figma IDE"]
+      },
+      {
+        "name": "github desktop",
+        "path": "C:\\Users\\sibis\\AppData\\Local\\GitHubDesktop\\GitHubDesktop.exe",
+        "synonyms": ["github", "github desktop", "githubdesktop", "git"]
+      },
+      {
+        "name": "xampp",
+        "path": "C:\\xampp\\xampp-control.exe",
+        "synonyms": ["xampp", "xampp control panel"]
+      },
+      {
+        "name": "onenote",
+        "path": "start onenote:",
+        "synonyms": ["microsoft onenote", "onenote", "ms onenote"]
+      },
+      {
+        "name": "onedrive",
+        "path": "start onedrive:",
+        "synonyms": ["microsoft onedrive", "onedrive"]
+      },
+      {
+        "name": "access",
+        "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSACCESS.EXE",
+        "synonyms": ["microsoft access", "access", "ms access"]
+      },
+      {
+        "name": "arduino",
+        "path": "C:\\Users\\sibis\\AppData\\Local\\Programs\\Arduino IDE\\Arduino IDE.exe",
+        "synonyms": ["arduino IDE", "arduino"]
+      },
+      {
+        "name": "microsoft store",
+        "path": "start ms-windows-store:",
+        "synonyms": ["store", "ms store", "microsoft store"]
+      },
+      {
+        "name": "office",
+        "path": "start office:",
+        "synonyms": ["office"]
+      },
+      {
+        "name": "myhp",
+        "path": "start hp.myhp://",
+        "synonyms": ["myhp"]
+      },
+      {
+        "name": "mail",
+        "path": "start outlookmail:",
+        "synonyms": ["outlook mail", "mail"]
+      },
+      {
+        "name": "telegram",
+        "path": "start telegram:",
+        "synonyms": ["telegram app", "telegram"]
+      },
+      {
+        "name": "whatsapp",
+        "path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm",
+        "synonyms": ["whatsapp app", "whatsapp", "Whatsapp"]
+      },
+      {
+        "name": "dropbox",
+        "path": "start dropbox:",
+        "synonyms": ["dropbox promotion", "dropbox"]
+      }
+    ]
+  }
+  
